@@ -1,5 +1,7 @@
 import express from 'express';
 import puppeteer from 'puppeteer';
+import os from 'os';
+import path from 'path';
 import mysql from 'mysql2/promise';
 import dotenv from 'dotenv';
 
