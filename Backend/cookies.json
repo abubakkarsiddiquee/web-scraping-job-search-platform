@@ -1,0 +1,33 @@
+[
+  {
+    "name": "cf_chl_rc_m",
+    "value": "1",
+    "domain": "www.indeed.com",
+    "path": "/",
+    "expires": 1754192150,
+    "size": 12,
+    "httpOnly": false,
+    "secure": true,
+    "session": false,
+    "sameSite": "None",
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure",
+    "partitionKey": "https://indeed.com"
+  },
+  {
+    "name": "__cf_bm",
+    "value": "7grnd0NIOsPfWr_PEZo7hYIKMNRlHRGrzZ.JA.qc4Sg-1754188544-1.0.1.1-bmbBiSzhPeW85L2KMCI5YU3Xf9uWBkJ03Now_7ajg11jao.5Wtxap14_m27gF.6cKpyDXmZfROZp9D1g1z8MiVNAJary.g7wrji4O7Bk7s8",
+    "domain": ".indeed.com",
+    "path": "/",
+    "expires": 1754190344.702646,
+    "size": 177,
+    "httpOnly": true,
+    "secure": true,
+    "session": false,
+    "sameSite": "None",
+    "priority": "Medium",
+    "sameParty": false,
+    "sourceScheme": "Secure"
+  }
+]
